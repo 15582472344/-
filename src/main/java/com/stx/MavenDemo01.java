@@ -7,6 +7,7 @@ public class MavenDemo01 {
         StuVo stuVo = new StuVo();
         stuVo.setGender("ss");
 
+        System.out.println("提交");
 
     }
 }
